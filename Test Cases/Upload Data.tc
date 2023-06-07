@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0fba410-d3a6-4105-80f2-8d4f20d78336</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\rizki\\\\Downloads\\\\sampleFile.jpeg'</defaultValue>
+      <description></description>
+      <id>a9be731f-5702-4c53-b459-bde728a670bf</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bca14cc5-46ad-4814-acfd-b790f27521f9</id>
+      <masked>false</masked>
+      <name>outputFile</name>
+   </variable>
+</TestCaseEntity>

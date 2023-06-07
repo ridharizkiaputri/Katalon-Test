@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create data and success add data to table</description>
+   <name>Create Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9014a4e2-04e7-4262-a6f5-42bf9eb11eef</testCaseGuid>
+</TestCaseEntity>
